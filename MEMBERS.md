@@ -11,5 +11,4 @@ Nil
 - Shane Yeo (2426)
 
 ## Contributors
-
-Nil
+- Edward Yee (2527)
